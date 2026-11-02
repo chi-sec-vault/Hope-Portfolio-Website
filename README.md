@@ -1,1 +1,1 @@
-This is the source code for Hope's Cybersecurity Portfolio
+This is Hope's Cybersecurity Portfolio
